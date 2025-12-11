@@ -4,10 +4,10 @@ soundfile==0.12.1
 tiktoken==0.6.0
 torch==2.3.1
 torchaudio==2.3.1
+torchvision==0.18.1
 tqdm==4.66.4
 train==0.0.5
 transformers==4.57.3
-ttsfrd==0.1.0
 wandb==0.16.6
 WeTextProcessing==1.0.3
 x_transformers==1.42.26
@@ -15,7 +15,7 @@ zhconv==1.4.3
 zhon==2.1.1
 
 inflect==7.3.1
-numpy==2.2.6
+numpy==1.26.4
 onnxruntime_gpu==1.17.0
 openai_whisper==20231117
 contractions==0.1.73
